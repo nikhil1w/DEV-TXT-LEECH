@@ -2,12 +2,12 @@
   <img src="https://files.catbox.moe/fh731v.jpg" alt="DEV-TXT-LEECH">
 </p>
 <h1 align="center">
-  <a href="https://github.com/Dev-Thanos/DEV-TXT-LEECH">DEV-TXT-LEECH 👨‍💻</a>
+  <a href="">DEV-TXT-LEECH 👨‍💻</a>
 </h1>
 
 ## **Main Repository**
 
-##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](https://github.com/Dev-Thanos/DEV-TXT-LEECH)
+##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](hev-Thanos/DEV-TXT-LEECH)
 
 
 
@@ -72,6 +72,6 @@ Use these settings when adding a monitor:</b>
 
 
 
-- Thanks to [⌯ FʀᴏɴᴛMᴀɴ | ×͜× |](https://t.me/coderthanos) (myself) for modifying thiss Repo  .
-- Thanks to [Trio UG](https://t.me/triobots) for fast uploading method .  
-- Thanks to [NikhilL Saini](https://t.me/saini_contact_bot) for base repo & main repo 
+- Thanks to [⌯ FʀᴏɴᴛMᴀɴ | ×͜× |](https://t.me/studentzzzbot) (myself) for modifying thiss Repo  .
+- Thanks to [Trio UG](https://t.me/studenzzzbot) for fast uploading method .  
+- Thanks to [NikhilL Saini](https://t.me/studentzzzbot) for base repo & main repo 
