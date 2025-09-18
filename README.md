@@ -22,6 +22,7 @@
 - Click on Deploy Easily
 - Press the below button to Fast deploy on Heroku</b>
 
+(https://www.heroku.com/deploy?template=https://github.com/nikhil1w/DEV-TXT-LEECH)
 
    [![Deploy](https://www.heroku.com/deploy?template=https://github.com/nikhil1w/DEV-TXT-LEECH)
 - <b>Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.</b></details>
