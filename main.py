@@ -79,6 +79,14 @@ timeout_duration = 300  # 5 minutes
 
 
 # Initialize bot with random session
+proxy = {
+    "scheme": os.getenv("PROXY_SCHEME", "http"),
+    "hostname": os.getenv("PROXY_HOST", "203.115.123.163"),
+    "port": int(os.getenv("PROXY_PORT", "1452")),
+    "username": os.getenv("PROXY_USER", "admin"),
+    "password": os.getenv("PROXY_PASS", "admin"),
+}
+
 bot = Client(
     "ugx",
     api_id=API_ID,
