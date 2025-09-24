@@ -178,7 +178,7 @@ cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 api_url = "http://master-api-v3.vercel.app/"
 api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
 cwtoken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NTExOTcwNjQsImNvbiI6eyJpc0FkbWluIjpmYWxzZSwiYXVzZXIiOiJVMFZ6TkdGU2NuQlZjR3h5TkZwV09FYzBURGxOZHowOSIsImlkIjoiVWtoeVRtWkhNbXRTV0RjeVJIcEJUVzExYUdkTlp6MDkiLCJmaXJzdF9uYW1lIjoiVWxadVFXaFBaMnAwSzJsclptVXpkbGxXT0djMlREWlRZVFZ5YzNwdldXNXhhVEpPWjFCWFYyd3pWVDA9IiwiZW1haWwiOiJWSGgyWjB0d2FUZFdUMVZYYmxoc2FsZFJSV2xrY0RWM2FGSkRSU3RzV0c5M1pDOW1hR0kxSzBOeVRUMD0iLCJwaG9uZSI6IldGcFZSSFZOVDJFeGNFdE9Oak4zUzJocmVrNHdRVDA5IiwiYXZhdGFyIjoiSzNWc2NTOHpTMHAwUW5sa2JrODNSRGx2ZWtOaVVUMDkiLCJyZWZlcnJhbF9jb2RlIjoiWkdzMlpUbFBORGw2Tm5OclMyVTRiRVIxTkVWb1FUMDkiLCJkZXZpY2VfdHlwZSI6ImFuZHJvaWQiLCJkZXZpY2VfdmVyc2lvbiI6IlEoQW5kcm9pZCAxMC4wKSIsImRldmljZV9tb2RlbCI6IlhpYW9taSBNMjAwN0oyMENJIiwicmVtb3RlX2FkZHIiOiI0NC4yMDIuMTkzLjIyMCJ9fQ.ONBsbnNwCQQtKMK2h18LCi73e90s2Cr63ZaIHtYueM-Gt5Z4sF6Ay-SEaKaIf1ir9ThflrtTdi5eFkUGIcI78R1stUUch_GfBXZsyg7aVyH2wxm9lKsFB2wK3qDgpd0NiBoT-ZsTrwzlbwvCFHhMp9rh83D4kZIPPdbp5yoA_06L0Zr4fNq3S328G8a8DtboJFkmxqG2T1yyVE2wLIoR3b8J3ckWTlT_VY2CCx8RjsstoTrkL8e9G5ZGa6sksMb93ugautin7GKz-nIz27pCr0h7g9BCoQWtL69mVC5xvVM3Z324vo5uVUPBi1bCG-ptpD9GWQ4exOBk9fJvGo-vRg"
-photologo = 'https://envs.sh/Nf.jpg/IMG20250803704.jpg' #https://envs.sh/fH.jpg/IMG20250803719.jpg
+photologo = 'https://files.catbox.moe/hn7kyr.jpg' #https://envs.sh/fH.jpg/IMG20250803719.jpg
 photoyt = 'https://tinypic.host/images/2025/03/18/YouTube-Logo.wine.png' #https://envs.sh/fH.jpg/IMG20250803719.jpg
 photocp = 'https://tinypic.host/images/2025/03/28/IMG_20250328_133126.jpg'
 photozip = 'https://envs.sh/fH.jpg/IMG20250803719.jpg'
@@ -313,7 +313,7 @@ async def start(bot: Client, m: Message):
             if not is_authorized:
                 await m.reply_photo(
                     photo=photologo,
-                    caption="**Mʏ Nᴀᴍᴇ [DRM Wɪᴢᴀʀᴅ 🦋](https://t.me/MrFrontMan001)\n\nYᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ\nCᴏɴᴛᴀᴄᴛ [⌯ FʀᴏɴᴛMᴀɴ | ×͜× |](https://t.me/Mrfrontman001) ғᴏʀ ᴀᴄᴄᴇꜱꜱ**",
+                    caption="**Nikhil Bhai [Nikhil Bro](https://t.me/Studentzzzbot)\n\nYᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ\nCᴏɴᴛᴀᴄᴛ [Nikhil Bhai](https://t.me/Studentzzzbot) ғᴏʀ ᴀᴄᴄᴇꜱꜱ**",
                     reply_markup=InlineKeyboardMarkup([
     [
         InlineKeyboardButton("Nikhil Bhai", url="https://t.me/studentzzzbot")
@@ -339,14 +339,14 @@ async def start(bot: Client, m: Message):
             
             await m.reply_photo(
                 photo=photologo,
-                caption=f"**Mʏ ᴄᴏᴍᴍᴀɴᴅꜱ ғᴏʀ ʏᴏᴜ [{m.from_user.first_name} ](tg://settings)**\n\n{commands_list}",
+                caption=f"**Nikhil Bhai [{m.from_user.first_name} ](tg://settings)**\n\n{commands_list}",
                 reply_markup=InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("⌯ FʀᴏɴᴛMᴀɴ | ×͜× |", url="https://t.me/studentzzzbot")
+        InlineKeyboardButton("Nikhil Bhai", url="https://t.me/studentzzzbot")
     ],
     [
-        InlineKeyboardButton("ғᴇᴀᴛᴜʀᴇꜱ 🪔", callback_data="help"),
-        InlineKeyboardButton("ᴅᴇᴛᴀɪʟꜱ 🦋", callback_data="help")
+        InlineKeyboardButton("Help", callback_data="help"),
+        InlineKeyboardButton("Commands", callback_data="help")
     ]])
 )
             
