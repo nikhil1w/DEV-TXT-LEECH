@@ -7,7 +7,7 @@
 
 ## **Main Repository**
 
-##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](https://github.com/nikhil1w/DEV-TXT-LEECH)
+##### Dev Thanos.   [Nikhil-Bhai-Leech 👨‍💻](https://github.com/nikhil1w/DEV-TXT-LEECH)
 
 
 
@@ -73,6 +73,6 @@ Use these settings when adding a monitor:</b>
 
 
 
-- Thanks to [⌯ FʀᴏɴᴛMᴀɴ | ×͜× |](https://t.me/coderthanos) (myself) for modifying thiss Repo  .
-- Thanks to [Trio UG](https://t.me/triobots) for fast uploading method .  
-- Thanks to [NikhilL Saini](https://t.me/saini_contact_bot) for base repo & main repo 
+- Thanks to [Nikhil Bhai](https://t.me/Studentzzzbot) (myself) for modifying thiss Repo  .
+- Thanks to [Raone(https://t.me/) for fast uploading method .  
+- Thanks to [Bhavesh](https://t.me/studentzzzbot) for base repo & main repo 
