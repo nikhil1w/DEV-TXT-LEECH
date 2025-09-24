@@ -2,12 +2,12 @@
   <img src="https://files.catbox.moe/hn7kyr.jpg" alt="Nikhil-Bhai-Leech">
 </p>
 <h1 align="center">
-  <a href="https://github.com/Dev-Thanos/DEV-TXT-LEECH">DEV-TXT-LEECH 👨‍💻</a>
+  <a href="https://github.com/nikhil1w/DEV-TXT-LEECH">Nikhil-Bhai-Leech 👨‍💻</a>
 </h1>
 
 ## **Main Repository**
 
-##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](https://github.com/Dev-Thanos/DEV-TXT-LEECH)
+##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](https://github.com/nikhil1w/DEV-TXT-LEECH)
 
 
 
@@ -15,7 +15,7 @@
 
 ## _Deploy Via Buttons_
 <br>
-<details>
+<detail>
   <summary><b>Deploy on Heroku</b></summary>
 
 - <b>Fork This Repo
