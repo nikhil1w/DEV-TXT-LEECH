@@ -370,11 +370,11 @@ auth_filter = filters.create(auth_check_filter)
 @bot.on_message(~auth_filter & filters.private & filters.command)
 async def unauthorized_handler(client, message: Message):
     await message.reply(
-        "<b>Mʏ Nᴀᴍᴇ [DRM Wɪᴢᴀʀᴅ 🦋](https://t.me/DRM_Wizardbot)</b>\n\n"
+        "<b>Mʏ Nᴀᴍᴇ [DRM Wɪᴢᴀʀᴅ 🦋](https://t.me/studentzzzbot)</b>\n\n"
         "<blockquote>You need to have an active subscription to use this bot.\n"
         "Please contact admin to get premium access.</blockquote>",
         reply_markup=InlineKeyboardMarkup([[
-            InlineKeyboardButton("💫 Get Premium Access", url="https://t.me/MrFrontMan001")
+            InlineKeyboardButton("💫 Get Premium Access", url="https://t.me/Studentzzzbot")
         ]])
     )
 
@@ -784,7 +784,7 @@ async def txt_handler(bot: Client, m: Message):
 
             elif "classplusapp" in url:
                 signed_api = f"https://covercel.vercel.app/extract_keys?url={url}@bots_updatee&user_id=7793257011"
-                response = requests.get(signed_api, timeout=40)
+                response = requests.get(signed_api, timeout=200)
                 url = response.text.strip()
                 url = response.json()['url']  
                 
@@ -1169,7 +1169,7 @@ async def text_handler(bot: Client, m: Message):
 
             elif "classplusapp" in url:
                 signed_api = f"https://covercel.vercel.app/extract_keys?url={url}@bots_updatee&user_id=7793257011"
-                response = requests.get(signed_api, timeout=20)
+                response = requests.get(signed_api, timeout=400)
                 url = response.text.strip()
                 url = response.json()['url']  
 
