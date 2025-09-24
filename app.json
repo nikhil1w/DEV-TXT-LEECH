@@ -1,14 +1,14 @@
 {
-  "name": "ugxdev",
+  "name": "Nikhil-Bhai-Leech",
   "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-  "logo": "https://files.catbox.moe/8e2qqw.jpg",
+  "logo": "https://files.catbox.moe/hn7kyr.jpg",
   "keywords": [
     "text-video",
     "video-extract",
     "pyrogram"
   ],
-  "repository": "https://github.com/Dev-Thanos/TXT-LEECH-BOT",
-  "success_url": "https://t.me/CoderThanos",
+  "repository": "https://github.com/nikhil1w/DEV-TXT-LEECH",
+  "success_url": "https://t.me/Studentzzzbot",
   "stack": "container",
   "env": {
     "API_ID": {
