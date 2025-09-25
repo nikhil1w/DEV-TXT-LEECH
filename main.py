@@ -80,11 +80,11 @@ timeout_duration = 300  # 5 minutes
 
 # Initialize bot with random session
  proxy = {
-    "scheme": os.getenv("PROXY_SCHEME", "http"),
-    "hostname": os.getenv("PROXY_HOST", "203.115.123.163"),
-    "port": int(os.getenv("PROXY_PORT", "80")),
-    "username": os.getenv("PROXY_USER", "admin"),
-    "password": os.getenv("PROXY_PASS", "admin"),
+    "scheme": "http",
+    "hostname": "203.115.123.163",
+    "port": 1452,
+    "username": "admin",
+    "password": "admin",
 }
 
 bot = Client(
@@ -92,7 +92,7 @@ bot = Client(
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
-    proxy=proxy
+    proxy=proxy,
     workers=300,
     sleep_threshold=60,
     in_memory=True
