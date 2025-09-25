@@ -79,7 +79,7 @@ timeout_duration = 300  # 5 minutes
 
 
 # Initialize bot with random session
- proxy = {
+ proxy ={
     "scheme": "http",
     "hostname": "203.115.123.163",
     "port": 1452,
