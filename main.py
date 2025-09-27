@@ -79,20 +79,11 @@ timeout_duration = 300  # 5 minutes
 
 
 # Initialize bot with random session
- proxy ={
-    "scheme": "http",
-    "hostname": "203.115.123.163",
-    "port": 1452,
-    "username": "admin",
-    "password": "admin",
-}
-
 bot = Client(
     "ugx",
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
-    proxy=proxy,
     workers=300,
     sleep_threshold=60,
     in_memory=True
